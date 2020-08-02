@@ -1,1 +1,2 @@
 # 2020Summer_Python_FIN
+请使用windows系统运行，MacOS系统上pygame Zero的刷新帧率与Windows不同。
